@@ -20,6 +20,10 @@
 
 
 ## Erhel
+### Fonctions
+- _simplification des fonctions rond de couleur en une seule fonction_
+- _simplification des fonctions carré de couleur en une seule fonction_
+- _fonction de remise à zero de l'angle_
 
 ### Panneaux
 - _panneau triangles inverse_
@@ -30,10 +34,8 @@
 - _panneau limitation de vitesse 50km/h_
 
 ### Autres
-- _simplification des fonctions rond de couleur en une seule fonction_
-- _simplification des fonctions carré de couleur en une seule fonction_
-- _clean des modules_
-- _clean des panneaux_
+- _clean du programme des modules_
+- _clean du programe des panneaux_
 
 
 ## Justine
