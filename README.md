@@ -13,7 +13,7 @@ Le but était d'afficher des panneaux de signalisation française avec la biblio
 
 ## Organisation du projet
 Ce programme est divisé en 3 fichiers :
-- `main.py`, qui contient le programme principal. En le lançant, le programme affiche tous les panneaux.
+- `main.py`, qui contient le programme principal, celui de l'affichage. En le lançant, le programme affiche tous les panneaux.
 
 - `panneaux.py`, qui contient les fonctions de création des panneaux.
 
