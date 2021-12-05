@@ -23,3 +23,6 @@ Nous nous sommes réparti chaques fonctions entre les 3 membres du projet.
 Vous pouvez retrouver la répartition dans `tasks.md`.
 
 Nous nous sommes imposés des règles pour le bon déroulement du projet, tel que le relèvement du crayon à la fin de chaque fonction.
+
+## Note
+Nous avons remarqué que l'affichage du texte dépend de la résolution de l'écran. Il est possible que vous remarquiez des décalages chez vous.
