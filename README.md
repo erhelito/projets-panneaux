@@ -17,7 +17,7 @@ Ce programme est divisé en 3 fichiers :
 
 - panneaux.py, qui contient les fonctions de création des panneaux.
 
-- formes_base.py, qui contient les fonctions de création des formes servant de base aux différents panneaux.
+- (formes_base.py)[./formes_base.py], qui contient les fonctions de création des formes servant de base aux différents panneaux.
 
 Nous nous sommes réparti chaques fonctions entre les 3 membres du projet.
 Vous pouvez retrouver la répartition dans tasks.md.
