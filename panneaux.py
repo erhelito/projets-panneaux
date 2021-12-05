@@ -418,7 +418,7 @@ def ceder_passage_droite():
     up()
 
 
-def retrecicement():
+def retrecissement():
     triangle()
 
     pencolor("black")
