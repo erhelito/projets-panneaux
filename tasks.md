@@ -18,6 +18,9 @@
 - _countournement par la gauche_
 - _panneau autoroute_
 
+### Autres
+- _affichage des panneaux_
+
 
 ## Erhel
 ### Fonctions
