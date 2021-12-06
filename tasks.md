@@ -39,6 +39,7 @@
 ### Autres
 - _clean du programme des modules_
 - _clean du programe des panneaux_
+- _gestion readme et github_
 
 
 ## Justine
