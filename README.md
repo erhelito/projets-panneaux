@@ -26,3 +26,4 @@ Nous nous sommes imposés des règles pour le bon déroulement du projet, tel qu
 
 ## Note
 Nous avons remarqué que l'affichage du texte dépend de la résolution de l'écran. Il est possible que vous remarquiez des décalages chez vous.
+Vous trouverez deux captures d'écran ([1.png](/1.png) et [2.png](/2.png)) du résultat affiché sur notre écran.
