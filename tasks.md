@@ -1,5 +1,5 @@
 # Tips
-- Ecrire du  sur texte sur turtle : `write("texte", font=("police"), taille, "type : italique, gras...")`
+- Ecrire du texte sur turtle : `write("texte", font=("police"), taille, "type : italique, gras...")`
 - Remettre le stylo horizontal : utiliser la fonction `position()`
 
 # A faire :
